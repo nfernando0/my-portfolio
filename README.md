@@ -29,11 +29,11 @@ Untuk melihat atau menjalankan website ini secara lokal:
 
 1.  **Clone Repositori:**
     ```bash
-    git clone [https://github.com/EskelandLab/ANDA](https://github.com/EskelandLab/ANDA)
+    git clone [https://github.com/nfernando0/my-portfolio.git](https://github.com/EskelandLab/ANDA)
     ```
 2.  **Navigasi ke Direktori Proyek:**
     ```bash
-    cd [nama-direktori-repositori]
+    cd [my-portfolio]
     ```
 3.  **Buka File `index.html` di Browser:**
     Cukup buka file `index.html` yang ada di direktori proyek dengan browser web Anda (misalnya, klik dua kali pada file tersebut).
